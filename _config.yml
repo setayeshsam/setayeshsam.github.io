@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
+  name             : "Setayesh Samani"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  bio              : ""
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
+  email            : s_samani@comp.iust.ac.ir
+  twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: setayeshsam
+  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
