@@ -23,8 +23,8 @@ gallery:
     image_path: /assets/images/new22.jpg
     alt: "placeholder image 4"
     title: "night sky"
-  - url: /assets/images/new33.jpg
-    image_path: /assets/images/new33.jpg
+  - url: /assets/images/new33c.jpg
+    image_path: /assets/images/new33c.jpg
     alt: "placeholder image 5"
     title: "dark rose"    
 ---
