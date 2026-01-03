@@ -9,11 +9,11 @@ comments: true
 ---
 
 ### My friends
-Fatima (fatimavw.github.io)
-Golbarg
-Ava
-laya 
-yesna
+Fatima /
+Golbarg /
+Ava /
+laya /
+yasna /
 
 
 
