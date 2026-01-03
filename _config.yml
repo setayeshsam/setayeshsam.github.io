@@ -136,9 +136,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Telegram"
-      icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
 
 # Site Footer
 footer:
